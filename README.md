@@ -1,9 +1,8 @@
 ### Hy, I am Malkeet Singh 👋
 
-- 🔭 I’m currently working on Mern Projects
-- 🌱 I’m currently learning React and Java
-- 👯 I’m looking to collaborate with like minded people 
-- 😣 I’m looking for help with interviews
+- 🔭 I’m currently working on python projects
+- 🌱 I’m currently learning React and Java and Python
+- 👯 I’m looking to collaborate with like minded people s
 - 💬 Ask me about any Techy stuff
 - 📫 How to reach me: LinkedIn-@MalkeetSingh
 - 😄 Pronouns: He/His
